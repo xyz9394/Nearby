@@ -72,7 +72,7 @@ const (
 	PROJECT_ID = "moonlit-pursuit-199302"
 	BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://35.185.84.225:9200/"
+	ES_URL = "http://35.196.40.68:9200/"
 )
 
 
